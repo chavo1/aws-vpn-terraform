@@ -1,0 +1,5 @@
+vpn_ip_address = "< GCP External IP address - Reserved static address >"
+zone           = "< AWS availability zone >"
+preshared_key  = "< a VPN tunels preshared_key >"
+gcp_cidr       = "172.31.32.0/22"
+name_vpn       = "< a name of the vpn>"
